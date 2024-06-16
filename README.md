@@ -1,2 +1,2 @@
 # Python_Learning
-Exploring with python
+Exploring through python
