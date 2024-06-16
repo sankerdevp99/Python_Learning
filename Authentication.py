@@ -1,5 +1,5 @@
 #Simple Program used to authenticate user , User Name is ADMIN and Password is St0rE@1, and User only have 2 more attempts
-#to correct the password
+#to correct the login credentials
 
 
 #Function to input UserName and Password
