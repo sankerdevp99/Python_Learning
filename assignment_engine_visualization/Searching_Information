@@ -1,0 +1,1 @@
+{'truck_id': 'Truck_1', 'is_loaded': False, 'material': 0.0, 'location': <Buildings.Unloading_station object at 0x0000016279B47C50>, 'state': 'Stop', 'dt': 0.1, 'velocity_loaded': 4.73, 'velocity_unloaded': 12.59, 'bed_capacity': 1.0, 'flag_change': True, 'schedule': [], 'start_node': None, 'path': [], 'goal_node': None, 'dist_remaining': 1.0760000000000043}

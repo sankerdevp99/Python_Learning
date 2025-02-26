@@ -1,0 +1,33 @@
+Time stamp for simulation run :2024_09_17_13_27_16
+
+
+Setting up Discrete Event Simualtion 
+Truck_0 at Parking_lot_0
+Truck_1 at Parking_lot_0
+
+
+Forward simulating the world to sim_time :10.09999999999998
+Service list and distance to be travelled by trucks for Loading_station_0 is: []
+Service list and distance to be tarvelled by trucks for Unloading_station_0 is: ['Truck_0']
+Service list and distance to be tarvelled by trucks for Unloading_station_1 is: []
+Truck_0 has current load0.8209999999999998
+Material available atUnloading_station_0 is 0.17900000000000005
+Truck_1 has distance remaining 14.854999999999997
+
+
+Forward simulating the world to sim_time :20.000000000000014
+Service list and distance to be travelled by trucks for Loading_station_0 is: []
+Service list and distance to be tarvelled by trucks for Unloading_station_0 is: []
+Service list and distance to be tarvelled by trucks for Unloading_station_1 is: []
+Truck_0 has distance remaining 6.996
+
+
+Forward simulating the world to sim_time :30.000000000000156
+Service list and distance to be travelled by trucks for Loading_station_0 is: []
+Service list and distance to be tarvelled by trucks for Unloading_station_0 is: ['Truck_0']
+Service list and distance to be tarvelled by trucks for Unloading_station_1 is: []
+Truck_0 has current load0.022999999999999438
+Material available atUnloading_station_0 is 1.9769999999999983
+
+
+Discrete Event Simulation completed 

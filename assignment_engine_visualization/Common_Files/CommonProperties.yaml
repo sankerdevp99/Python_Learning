@@ -1,0 +1,16 @@
+num_loading_stations: 1
+num_unloading_stations: 2
+num_junctions: 1
+num_trucks: 2
+loading_rate: 0.5 # In tonns/seconds
+unloading_rate: 0.25 # In tonns/seconds
+loaded_truck_velocity: 2.0  # In meter/seconds
+unloaded_truck_velocity: 1.0 # In meter/seconds
+truck_capacity: 1.0 # In tonns
+num_time_steps: 500 #num of time steps in TSN
+des_dt : 0.1 #simulation time step in seconds
+tsn_dt : 40 # one time step in tsn equal to tsn_dt seconds 
+trucks_per_station: 
+    "3": 2    # node id of parking station: num_trucks at the parking station
+   
+
